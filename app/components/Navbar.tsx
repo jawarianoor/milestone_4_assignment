@@ -88,7 +88,7 @@ const Navbar = () => {
       ) : (
         <nav className="bg-[#7ECCCB] flex items-center justify-between pr-5 md:pr-5 relative">
           <div className="logo w-[13rem] md:w-[20rem]">
-            <Image src="/images/logo.PNG" alt="logo" width={500} height={300} />
+            <Image src="/images/logo.png" alt="logo" width={500} height={300} />
           </div>
           <div>
             <button
