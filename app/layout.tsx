@@ -12,9 +12,9 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Post Sphere",
+  title: "Jawaria API",
   description:
-    "Post Sphere is a dynamic platform where users can explore, share, and engage with diverse posts on a variety of topics. Join the community to discover thought-provoking content, connect with authors, and stay informed.",
+    "Jawaria API is a dynamic platform where users can explore, share, and engage with diverse posts on a variety of topics. Join the community to discover thought-provoking content, connect with authors, and stay informed.",
 };
 
 export default function RootLayout({
